@@ -2,7 +2,7 @@
  * @fileOverview Live browser interaction with Emacs
  * @version 1.4
  */
-
+/* enable scanning */
 /**
  * Connects to Emacs and waits for a request. After handling the
  * request it sends back the results and queues itself for another
